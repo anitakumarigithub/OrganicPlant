@@ -1,0 +1,8 @@
+.w1{
+    justify-content: center;
+    border: 1px solid palegreen;
+    background-color:   rgb(169, 240, 169);
+    border-radius: 20px;
+    height: 400px;
+    margin-top: 50px;
+}

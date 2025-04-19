@@ -1,0 +1,42 @@
+.selling{width: 100%;
+    
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+    gap: 10px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    
+
+}
+.selling img{
+    height: 280px;
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.selling p{
+    margin: 6px 0px;
+    font-size: 18px;
+    font-weight: 700;
+    justify-items: center;
+}
+.des{
+    margin: 6px 0px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.price{
+    font-size: 18px;
+    font-weight: 700;
+    justify-items: center;
+
+
+
+}
+/* .selling img:hover{
+    transform: scale(2.05);
+    transition: 0.3s;
+} */
